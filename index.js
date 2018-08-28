@@ -21,7 +21,7 @@ function inc(n) {
 }
 
 function dec(n) {
-  n = parseInt(n);
   n--;
   return n;
 }
+
